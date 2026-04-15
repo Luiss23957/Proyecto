@@ -1,0 +1,6 @@
+cd C:\Users\CORONADO\Desktop\permisos
+git init
+git add.
+git commit -m "first commit"
+git remote add origin https://github.com/Luiss23957/Proyecto.git
+git push -u origin master
